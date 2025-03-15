@@ -54,3 +54,9 @@ npm start
 💡 **Feel free to contribute and improve the project!** 🚀
 
 📧 **For any issues or queries, contact us at:** [akash20050513@gmail.com](mailto:your-email@example.com)
+
+---
+
+## 🎉 Acknowledgments
+
+Thanks to the creators of **React, Bootstrap and JavaScript** for making this project possible! 🙌
